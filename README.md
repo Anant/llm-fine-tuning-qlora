@@ -1,2 +1,4 @@
-# llm-fine-tuning-qlora
-This repo houses the knowledge and code needed to deploy code for fine-tuning an LLM using the QLORA method
+# lora-llm-fine-tuning-demo
+project to do LoRA fine-tuning withe Cassandra Link Dataset
+
+Please add critical links here:
