@@ -3,3 +3,5 @@ langchain_openai
 ftfy
 bs4
 python-dotenv
+pandas
+datasets
